@@ -1,0 +1,3 @@
+class FpsEntity{
+  double value;
+}
